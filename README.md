@@ -20,18 +20,18 @@ View the [Github-pages](https://alischrec.github.io/Portfolio/)
 * [Acknowledgements](#acknowledgements)
 
 ## About the Project:
-<!-- The focus of this project was to utilize the [Bootstrap Framework](https://getbootstrap.com/) as a base to create a functional, deployed application. The project was to create a working portfolio using Bootstap's grid system while incorporating personal information and images for viewing pleasure.  -->
+The focus of this project was to create a working portfolio for future career endeavors.
 
-<!-- ![Project Gif](assets/images/gif.gif) -->
+![Project Gif](assets/images/gif.gif)
 
 ### HTML:
-<!-- * [index.html](https://github.com/Alischrec/Portfolio/blob/master/index.html)
+* [index.html](https://github.com/Alischrec/Portfolio/blob/master/index.html)
 * [contact.html](https://github.com/Alischrec/Portfolio/blob/master/contact.html)
-* [portfolio.html](https://github.com/Alischrec/Portfolio/blob/master/portfolio.html) -->
+* [portfolio.html](https://github.com/Alischrec/Portfolio/blob/master/portfolio.html)
 
 ### Assets:
-<!-- * [style.css](https://github.com/Alischrec/Portfolio/blob/master/assets/css/style.css)
-* [images](https://github.com/Alischrec/Portfolio/tree/master/assets/images) -->
+* [style.css](https://github.com/Alischrec/Portfolio/blob/master/assets/css/style.css)
+* [images](https://github.com/Alischrec/Portfolio/tree/master/assets/images)
 
 ### Built With:
 * This app is build upon [Bootstrap Framework](https://getbootstrap.com/)
@@ -49,7 +49,7 @@ git clone git@github.com:Alischrec/Portfolio.git
 ```
 
 ## Roadmap:
-<!-- Currently no known issues, but track track [open issues](https://github.com/Alischrec/Portfolio/issues ) for proposed features (and known issues) in the future. -->
+Currently no known issues, but track track [open issues](https://github.com/Alischrec/Portfolio/issues ) for proposed features (and known issues) in the future.
 
 
 ## Contributing:
