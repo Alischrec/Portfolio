@@ -1,5 +1,7 @@
 # Portfolio
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Explore the [Project Page](https://github.com/Alischrec/Portfolio)
 
 View the [Github-pages](https://alischrec.github.io/Portfolio/)
