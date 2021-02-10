@@ -1,18 +1,15 @@
 body {
       background-image: url('../images/background.png');
-
 }
 
-html,
-body {
+html, body {
   font-family: "Lato", sans-serif;
-  /* background-color: #fff; */
   color: #BE454F
 }
 
-/* .navbar.transparent.navbar-inverse .navbar-inner {
-    background: rgba(0,0,0,0.4);
- } */
+.navbar {
+    width: 100%;
+ }
 
 footer {
   display: flex;
@@ -119,7 +116,8 @@ footer {
 
 .card-image {
   display: block;
-  margin: 20px auto;
+  width: 250px;
+  height: 200px;
 }
 
 .row-project {
@@ -209,3 +207,4 @@ footer {
     background-color: #FB7384;
   
 }
+
