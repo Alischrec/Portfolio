@@ -24,6 +24,10 @@ footer {
   box-shadow: 0 0 30px -5px hsla(0, 0%, 20.8%, 0.45);
 }
 
+.btn-primary:hover {
+  background-color: #fcc0c5;
+}
+
 .footnote {
   color: #999;
   font-size: 0.8rem;
@@ -146,12 +150,16 @@ footer {
   margin-right: 40px;
 }
 
+.social-icon:hover {
+  color: #fcc0c5;
+}
+
 .contact-me-subtitle {
   margin-bottom: 30px;
 }
 
 .card-social-icon {
-  color: #000;
+  color: #FB7384;
   font-size: 16px;
 }
 .card-social-icon:hover {
