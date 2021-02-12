@@ -24,32 +24,49 @@
 <body>
 
     <!-- Navbar -->
-    <header class="container">
+    <header>
         <nav class="navbar navbar-expand-md">
-            <span class="navbar-brand mb-0 h1 ">Navbar</span>
+            <!-- <span class="navbar-brand mb-0 h1 ">Navbar</span> -->
+            <a class='navbar-brand' id='logo'> ॐ Ali-Schreck.</a>
+            <button class='navbar-toggler' type='button' data-toggle='collapse' data-target='#navbarTogglerDemo01'
+                aria-controls='navbarTogglerDemo01' aria-expanded='false' aria-label='Toggle navigation'>
+                <span class='navbar-toggler-icon'></span>
+            </button>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class='collapse navbar-collapse' id='navbarTogglerDemo01'>
+                <ul class='navbar-nav ml-auto mt-2 mt-lg-0'>
+                    <li class='nav-item'>
+                        <a class='nav-link' href='#experience'>Experience</a>
+                    </li>
+                    <li class='nav-item'>
+                        <a class='nav-link' href='#technologies'>Technologies</a>
+                    </li>
+                    <li class='nav-item active'>
+                        <a class='nav-link' href='#projects'>Projects</a>
+                    </li>
+                    <li class='nav-item active'>
+                        <a class='nav-link' href='#contact'>Contact</a>
+                    </li>
+                </ul>
         </nav>
     </header>
 
     <section class="container">
         <img src="assets/images/headshot.jpg" class="headshot" alt="headshot image" />
-        <h1 class="title">Software Engineer, Web Developer & Support Specialist</h1>
+        <h1 class="title">Web Developer & Support Specialist</h1>
         <h3 class="subtitle" id="element"></h3>
-        <img src="assets/images/hero.png" class="hero img-fluid" alt="hero image" />
+        <img src="assets/images/canva.png" class="hero img-fluid" alt="hero image" />
     </section>
 
-    <section class="container-color">
+    <section class="container-color" id='experience'>
         <div class="container">
             <h1 class="intro title">Hi, I’m Ali-Schreck. Nice to meet you!
             </h1>
-            <h3 class="intro subtitle">I am an enthusiastic software developer with a passion for creating beautiful
-                web
-                applications
-                built on
-                JavaScript technologies. </h3>
+            <h3 class="intro subtitle">I am an enthusiastic software developer with a passion for creating beautiful web applications built on JavaScript technologies. </h3>
         </div>
     </section>
 
-    <section class="container skills">
+    <section class="container skills" >
 
         <div class="profile-card" data-speed="2">
             <h5 class="card-title">Web Developer</h5>
@@ -99,7 +116,7 @@
 
         </div>
 
-        <div class="profile-card">
+        <!-- <div class="profile-card">
             <h5 class="card-title">Teacher</h5>
             <p class="card-text">
                 I enjoy working with students, helping them discover their own "aha" moments.
@@ -122,13 +139,10 @@
                 230+ students<br />
                 1000s of mentoring sessions<br />
             </p>
-        </div>
+        </div> -->
     </section>
 
-
-
-
-    <section class=" skill-container">
+    <section class=" skill-container" id='technologies'>
         <div class="row">
             <div class="col-md-10 offset-md-1">
                 <div class="row text-center">
@@ -189,7 +203,7 @@
 
     </section>
 
-    <section class="container container-gray">
+    <section class="container container-gray" id='projects'>
         <h1 class="title">Recent Projects</h1>
         <h3 class="subtitle">A few examples of projects I have enjoyed working on.</h3>
         <div class="row row-project">
@@ -306,7 +320,7 @@
         <h3 class="intro subtitle">I'm always open to collaboration on new projects. <br> If you're in need of a
             full-stack JavaScript developer, please get in touch!</h3>
     </section>
-    <section class="container">
+    <section class="container" id='contact'>
         <div class="card text-white bg-dark mb-3 start-project-card">
             <div class="card-body card-flex contact ">
                 <h3 class="intro subtitle contact-me-subtitle">Contact Me</h3>
@@ -319,8 +333,9 @@
                             class="fab fa-github"></i></a>
                     <a href="mailto:alischreck@gmail.com" class="social-icon" target='_blank'><i
                             class="fas fa-envelope"></i></a>
-                    <a href="./assets/images/resume.pdf" class="social-icon" target='_blank'><i class="far fa-file"></i></a>
-                            
+                    <a href="./assets/images/resume.pdf" class="social-icon" target='_blank'><i
+                            class="far fa-file"></i></a>
+
                 </h3>
             </div>
         </div>
