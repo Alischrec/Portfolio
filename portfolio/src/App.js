@@ -16,6 +16,7 @@ function App() {
     <div style={{ 
       backgroundImage: `url("/images/background.png")` 
     }}>
+      
     < TopNav />
     < Header />
     < Intro />
