@@ -1,6 +1,6 @@
 import React from "react";
 import './App.css';
-import Nav from './Components/navbar'
+import TopNav from './Components/navbar'
 import Header from './Components/header'
 import Intro from './Components/intro'
 import Experience from './Components/experience'
@@ -13,8 +13,10 @@ import Footer from './Components/footer'
 function App() {
   
   return (
-    <div>
-    < Nav />
+    <div style={{ 
+      backgroundImage: `url("/images/background.png")` 
+    }}>
+    < TopNav />
     < Header />
     < Intro />
     < Experience />

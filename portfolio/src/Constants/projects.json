@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Dumbbells & Donuts",
+        "description": "Clean and easy workout and nutrition tracking.",
+        "image": "/images/project1.gif",
+        "alt": "Gif of Alisons first interractive UI project. This is a workout/nutrition web-app.",
+        "deployed": "https://alischrec.github.io/Dumbbells_and_Donuts/",
+        "repo": "https://github.com/Alischrec/Dumbbells_and_Donuts"
+    },
+    {
+        "title": "Coding Quiz",
+        "description": "Stylish and functional coding quiz.",
+        "image": "/images/codequiz.gif",
+        "alt": "Gif of Alisons coding quiz github project.",
+        "deployed": "https://alischrec.github.io/WebAPIs_Hwk04/",
+        "repo": "https://github.com/Alischrec/WebAPIs_Hwk04"
+    },
+    {
+        "title": "Password Generator",
+        "description": "Generate a password based on selected criteria.",
+        "image": "/images/passgen.gif",
+        "alt": "Gif of Alisons password generator Github project.",
+        "deployed": "https://alischrec.github.io/PasswordGenerator_Hwk03/",
+        "repo": "https://github.com/Alischrec/PasswordGenerator_Hwk03"
+    },
+    {
+        "title": "Day Planner",
+        "description": "Easy online hourly planner",
+        "image": "/images/planner.gif",
+        "alt": "Gif of Alisons day planner Github project.",
+        "deployed": "https://alischrec.github.io/DayPlanner_Hwk05/",
+        "repo": "https://github.com/Alischrec/DayPlanner_Hwk05"
+    },
+    {
+        "title": "Weather API",
+        "description": "Simple weather trackeker by city.",
+        "image": "/images/weather.gif",
+        "alt": "Gif of Alisons weather api Github project.",
+        "deployed": "https://alischrec.github.io/WeatherDashboard_Hwk06/",
+        "repo": "https://github.com/Alischrec/WeatherDashboard_Hwk06"
+    },
+    {
+        "title": "Naughty or Nice",
+        "description": "Hilday gift list tracker.",
+        "image": "/images/project2.gif",
+        "alt": "Gif of Alisons Holiday Gift List Tracker app, Naughty or Nice!",
+        "deployed": "https://evening-springs-93825.herokuapp.com",
+        "repo": "https://github.com/NirmalaAbothu/Naughty_or_Nice"
+    }
+
+
+]

@@ -36,15 +36,14 @@ footer {
 .navbar {
   margin-bottom: 100px;
   max-width: 100%;
-  color: #BE454F
 }
 
 .nav-link {
-  color: #BE454F
+  color: #BE454F !important
 }
 
 .nav-link:hover {
-  color: #fcc0c5
+  color: #fcc0c5 !important
 }
 
 .title {
@@ -190,6 +189,11 @@ footer {
   border: 0;
   border-radius: 0;
   box-shadow: 0 0 30px -5px hsla(0, 0%, 20.8%, 0.45);
+}
+
+.project-card:hover {
+  transition-duration: 0.3s;
+  transform: scale(1.03);
 }
 
 .skill-container {

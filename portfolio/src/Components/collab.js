@@ -7,7 +7,7 @@ function Collab(props) {
         </h1>
             <h3 className="intro subtitle">I'm always open to collaboration on new projects. <br></br> If you're in need of a
             full-stack JavaScript developer, please get in touch!</h3>
-    </section>
+        </section>
     )
 }
 
