@@ -8,6 +8,7 @@ export default function ProjectCard(props) {
                 <h5 class="card-title">{props.title}</h5>
                 <p class="card-text">{props.description}</p>
                 <img src={props.image} alt={props.alt} class="card-image" />
+                <br></br>
                 <div class="link-container">
                     <a class="btn btn-primary" href={props.deployed} target="_blank" rel="noreferrer">See it
                             Live</a>

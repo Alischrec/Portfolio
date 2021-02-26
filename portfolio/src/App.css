@@ -129,7 +129,7 @@ text-align: center;
 display: block;
 max-width: 250px;
 height: 200px;
-object-position: center;
+align-content: center !important;
 }
 
 .row-project {
@@ -189,7 +189,6 @@ box-shadow: 0 0 30px -5px hsla(0, 0%, 20.8%, 0.45);
 .project-card {
 background-color: #fff;
 min-height: 400px;
-width: 350px;
 padding: 20px;
 margin: 10px;
 border: 0;

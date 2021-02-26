@@ -8,9 +8,10 @@ function Header(props) {
             <Image src="/images/headshot.jpg" className="headshot" alt="headshot" />
             <div className='center'>
                 <h1 className="title">Web Developer & Technical Support Specialist</h1>
+                <br></br>
                 <TypeIt className="subtitle"
                     options={{
-                        strings: ["I write code with a focus on an easy to use UX."],
+                        strings: ["I write code with a focus on an easy to use UI."],
                         speed: 50,
                         waitUntilVisible: true
                     }} />
