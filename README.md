@@ -24,7 +24,7 @@ View the [Github-pages](https://alischrec.github.io/Portfolio/)
 ## About the Project:
 The focus of this project was to create a working portfolio for future career endeavors.
 
-![Project Gif](assets/images/gif.gif)
+![Project Gif](./portfolio/images/gif)
 
 ### HTML:
 * [index.html](https://github.com/Alischrec/Portfolio/blob/master/index.html)
