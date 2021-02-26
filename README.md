@@ -4,7 +4,7 @@
 
 Explore the [Project Page](https://github.com/Alischrec/Portfolio)
 
-View the [Github-pages](https://alischrec.github.io/Portfolio/)
+View the [Deployed Portfolio](https://warm-everglades-96815.herokuapp.com/)
 
 ## Table of Contents
 
