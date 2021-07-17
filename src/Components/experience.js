@@ -67,8 +67,8 @@ function Experience(props) {
                 Notable Stats:
             </h5>
             <p className="card-text">
-                2021: 5/5 star raiting<br />
-                2020: 4.9/5 star raiting<br />
+                2021: 5/5 star rating<br />
+                2020: 4.9/5 star rating<br />
                 Average Response Time (ART):<br />
                 2021: 0.14 seconds<br />
                 2020: 0.17 seconds<br />
