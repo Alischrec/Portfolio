@@ -1,5 +1,3 @@
-import react from 'react';
-
 function Experience(props) {
     return (
         <section className="container skills" >

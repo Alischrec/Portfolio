@@ -50,7 +50,12 @@ function Technologies(props) {
                             <p>React</p>
                         </div>
                     </div>
-
+                    <div className="col">
+                        <div className="skill-bar-title">
+                            <i className="fab fa-angular fa-3x"></i>
+                            <p>Angular</p>
+                        </div>
+                    </div>
                     <div className="col">
                         <div className="skill-bar-title">
                             <i className="fab fa-git fa-3x"></i>
